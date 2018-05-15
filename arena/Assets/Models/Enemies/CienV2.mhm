@@ -1,0 +1,30 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags CienV2
+camera 9.0 356.0 0.106424437205 0.799333169244 -0.154864733297 1.0625
+modifier torso/torso-vshape-decr|incr 0.154000
+modifier breast/breast-trans-down|up 0.532000
+modifier macrodetails-universal/Muscle 0.687000
+modifier macrodetails/African 0.000000
+modifier macrodetails-proportions/BodyProportions 1.000000
+modifier breast/nipple-point-decr|incr -0.124000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails-height/Height 0.746000
+modifier breast/BreastSize 1.000000
+modifier torso/torso-muscle-pectoral-decr|incr 0.174000
+modifier macrodetails/Age 0.348000
+modifier breast/BreastFirmness 0.647000
+modifier macrodetails/Asian 0.000000
+modifier breast/breast-point-decr|incr -0.582000
+modifier head/head-age-decr|incr -0.204000
+modifier macrodetails/Caucasian 1.000000
+modifier breast/nipple-size-decr|incr -0.104000
+modifier breast/breast-dist-decr|incr 0.144000
+modifier macrodetails-universal/Weight 0.438000
+modifier breast/breast-volume-vert-down|up -0.004000
+skeleton unity_with_breast.mhskel
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothesHideFaces True
+skinMaterial skins/default.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
