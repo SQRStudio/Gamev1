@@ -1,7 +1,7 @@
 # Written by MakeHuman 1.1.1
 version v1.1.1
 tags anon
-camera 358.5 354.0 0.395393320335 0.136041938307 0.331611340375 0.975
+camera 8.5 9.0 0.11649157143 0.833557553628 -0.265880000667 1.1625
 modifier torso/torso-vshape-decr|incr 0.236000
 modifier armslegs/l-hand-fingers-length-decr|incr 0.180000
 modifier breast/breast-trans-down|up 0.222000
@@ -127,6 +127,8 @@ modifier measure/measure-upperarm-length-decr|incr -0.142000
 modifier nose/nose-width3-decr|incr -0.396000
 skeleton unity.mhskel
 eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes shoes06 35abc230-ebaa-48d4-8ff7-6d84168291a0
+clothes male_worksuit01 6afd98fa-381b-456f-aa46-3dd15b27b2f0
 clothesHideFaces True
 skinMaterial skins/middleage_caucasian_male/middleage_caucasian_male.mhmat
 material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/blue.mhmat
