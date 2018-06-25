@@ -125,10 +125,10 @@ modifier nose/nose-width2-decr|incr -0.270000
 modifier head/head-trans-down|up -0.126000
 modifier measure/measure-upperarm-length-decr|incr -0.142000
 modifier nose/nose-width3-decr|incr -0.396000
-skeleton unity.mhskel
 eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
-clothes shoes06 35abc230-ebaa-48d4-8ff7-6d84168291a0
-clothes male_worksuit01 6afd98fa-381b-456f-aa46-3dd15b27b2f0
+clothes crude_male_shirt db442f65-9ce9-4ae1-8af8-1c257e80ed7a
+clothes CrudeLoosePants 5621a36d-2de7-4110-b812-b35d3b99bbde
+clothes CrudeLowSocks ac3d437f-da58-45ce-97cc-0666ba8ead50
 clothesHideFaces True
 skinMaterial skins/middleage_caucasian_male/middleage_caucasian_male.mhmat
 material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/blue.mhmat
